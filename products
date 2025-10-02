@@ -1,0 +1,254 @@
+[
+  {
+    "title": "MacBook Air M2",
+    "category": "Laptops",
+    "price": 1199.99,
+    "oldPrice": 1299.99,
+    "description": "The MacBook Air M2 redefines portability with its ultra-thin, fanless design and blazing-fast M2 chip. Enjoy a stunning Retina display, exceptional battery life, and the perfect balance of performance and efficiency for students and professionals alike.",
+    "imageName": "m2air-hero-6c-removebg-preview",
+    "model": "M2-2023"
+  },
+  {
+    "title": "MacBook Pro 14",
+    "category": "Laptops",
+    "price": 1999.99,
+    "oldPrice": 2199.99,
+    "description": "Engineered for power users, the MacBook Pro 14 features Apple’s M2 Pro chip, delivering desktop-class performance in a portable form. Its Liquid Retina XDR display, long-lasting battery, and advanced thermal system make it ideal for creators on the go.",
+    "imageName": "macbook-pro-14",
+    "model": "MBP14-2023"
+  },
+  {
+    "title": "Dell XPS 13",
+    "category": "Laptops",
+    "price": 1099.99,
+    "oldPrice": 1199.99,
+    "description": "The Dell XPS 13 combines elegant design with powerhouse specs in a compact frame. Its virtually borderless InfinityEdge display, durable aluminum body, and Intel Evo certification ensure both productivity and premium user experience.",
+    "imageName": "",
+    "model": "XPS13-9310"
+  },
+  {
+    "title": "HP Spectre x360",
+    "category": "Laptops",
+    "price": 1299.99,
+    "oldPrice": 1499.99,
+    "description": "With its sleek convertible design, the HP Spectre x360 offers flexibility for work, study, and creativity. Boasting a vibrant OLED touchscreen, excellent battery performance, and strong security features, it’s perfect for hybrid users.",
+    "imageName": "",
+    "model": "SpectreX360-14"
+  },
+  {
+    "title": "Lenovo ThinkPad X1 Carbon",
+    "category": "Laptops",
+    "price": 1599.99,
+    "oldPrice": 1799.99,
+    "description": "Trusted by professionals worldwide, the Lenovo ThinkPad X1 Carbon is renowned for durability, comfort, and security. Featuring rapid performance, one of the best laptop keyboards, and military-grade toughness, it is a business-class powerhouse.",
+    "imageName": "",
+    "model": "X1-Gen11"
+  },
+  {
+    "title": "Asus ROG Zephyrus G14",
+    "category": "Laptops",
+    "price": 1499.99,
+    "oldPrice": 1699.99,
+    "description": "The Asus ROG Zephyrus G14 is a gaming laptop that doesn’t compromise on portability. Powered by AMD Ryzen and NVIDIA RTX graphics, with its iconic AniMe Matrix LED lid, it blends performance, creativity, and style in one compact machine.",
+    "imageName": "ed15348b8fc1eebfa67d8e270024ffe31dec79d2-500x500-removebg-preview",
+    "model": "G14-2023"
+  },
+  {
+    "title": "iPhone 14 Pro",
+    "category": "Smartphones",
+    "price": 999.99,
+    "oldPrice": 1099.99,
+    "description": "Apple’s flagship iPhone 14 Pro introduces the Dynamic Island, a 48MP Pro camera system, and the cutting-edge A16 Bionic chip. With ProMotion display and advanced safety features like Crash Detection, it’s the most complete iPhone yet.",
+    "imageName": "iphone-14-pro-and-max-deep-purple-png-704081694621850q0ub3cabmx",
+    "model": "iPhone14Pro"
+  },
+  {
+    "title": "Samsung Galaxy S23 Ultra",
+    "category": "Smartphones",
+    "price": 1199.99,
+    "oldPrice": 1299.99,
+    "description": "The Galaxy S23 Ultra is Samsung’s powerhouse, featuring a groundbreaking 200MP camera, Snapdragon 8 Gen 2 chip, and integrated S-Pen. Its massive AMOLED display and all-day battery make it perfect for power users and creators.",
+    "imageName": "",
+    "model": "S23Ultra"
+  },
+  {
+    "title": "Google Pixel 7 Pro",
+    "category": "Smartphones",
+    "price": 899.99,
+    "oldPrice": 999.99,
+    "description": "Google’s Pixel 7 Pro elevates smartphone photography with its Tensor G2 chip and advanced AI tools. Known for its clean Android experience and exclusive features like Magic Eraser, it delivers smart performance in a sleek package.",
+    "imageName": "",
+    "model": "Pixel7Pro"
+  },
+  {
+    "title": "OnePlus 11",
+    "category": "Smartphones",
+    "price": 749.99,
+    "oldPrice": 849.99,
+    "description": "Designed for speed and smoothness, the OnePlus 11 features a Snapdragon 8 Gen 2 processor, Hasselblad-tuned cameras, and super-fast charging. Its AMOLED display with 120Hz refresh rate ensures an immersive visual experience.",
+    "imageName": "unnamed-removebg-preview",
+    "model": "OnePlus11"
+  },
+  {
+    "title": "Xiaomi 13 Pro",
+    "category": "Smartphones",
+    "price": 999.99,
+    "oldPrice": 1099.99,
+    "description": "The Xiaomi 13 Pro combines Leica-engineered optics with Snapdragon 8 Gen 2 performance. Its ceramic finish, 1-inch main camera sensor, and HyperCharge technology push smartphone photography and charging to new heights.",
+    "imageName": "xiaomi_2-removebg-preview",
+    "model": "Mi13Pro"
+  },
+  {
+    "title": "Apple Watch Series 8",
+    "category": "Smartwatches",
+    "price": 399.99,
+    "oldPrice": 429.99,
+    "description": "The Apple Watch Series 8 provides advanced health tracking, crash detection, and seamless integration with your iPhone. With customizable faces and fitness features, it’s the ultimate personal companion for wellness and productivity.",
+    "imageName": "pngtree-transparent-apple-watch-series-8-displaying-heart-rate-png-image_16494035",
+    "model": "WatchS8"
+  },
+  {
+    "title": "Fitbit Charge 6",
+    "category": "Smartwatches",
+    "price": 179.99,
+    "oldPrice": 199.99,
+    "description": "The Fitbit Charge 6 offers robust health tracking, including heart rate, sleep monitoring, and Google Maps support. Lightweight and comfortable, it’s an affordable smartwatch designed to keep you active and connected all day.",
+    "imageName": "fitbit",
+    "model": "Charge6"
+  },
+  {
+    "title": "Sony WH-1000XM5",
+    "category": "Headphones",
+    "price": 399.99,
+    "oldPrice": 449.99,
+    "description": "Sony’s WH-1000XM5 headphones deliver unmatched noise cancellation and premium sound. With 30 hours of battery life, lightweight design, and adaptive sound control, they’re built for both travel and everyday listening.",
+    "imageName": "2500x2500_Silver_9-removebg-preview",
+    "model": "WH1000XM5"
+  },
+  {
+    "title": "Apple AirPods Pro (2nd Gen)",
+    "category": "Earphones",
+    "price": 249.99,
+    "oldPrice": 279.99,
+    "description": "The AirPods Pro 2 bring immersive sound with Adaptive Transparency, Active Noise Cancellation, and personalized spatial audio. Compact and comfortable, they seamlessly integrate with Apple devices for effortless use.",
+    "imageName": "",
+    "model": "AirPodsPro2"
+  },
+  {
+    "title": "Samsung Galaxy Buds2 Pro",
+    "category": "Earphones",
+    "price": 199.99,
+    "oldPrice": 229.99,
+    "description": "Compact yet powerful, the Galaxy Buds2 Pro deliver high-fidelity 24-bit audio with intelligent active noise cancellation. Designed for comfort and deep integration with Samsung devices, they’re perfect for music lovers on the go.",
+    "imageName": "",
+    "model": "Buds2Pro"
+  },
+  {
+    "title": "Beats Studio Buds+",
+    "category": "Earphones",
+    "price": 169.99,
+    "oldPrice": 189.99,
+    "description": "The Beats Studio Buds+ feature powerful bass, active noise cancellation, and up to 36 hours of total battery life with the case. Sleek and sweat-resistant, they’re tailored for both workouts and everyday listening.",
+    "imageName": "MUW03-removebg-preview",
+    "model": "StudioBuds+"
+  },
+  {
+    "title": "HyperX Cloud II Wireless",
+    "category": "Headphones",
+    "price": 149.99,
+    "oldPrice": 169.99,
+    "description": "Built for gamers, the HyperX Cloud II Wireless offers 7.1 surround sound, memory foam comfort, and up to 30 hours of battery life. Its durable design and crystal-clear mic make it a trusted headset for immersive play.",
+    "imageName": "png-clipart-kingston-hyperx-cloud-alpha-headset-microphone-headphones-microphone-thumbnail-removebg-preview",
+    "model": "CloudIIWireless"
+  },
+  {
+    "title": "Razer BlackWidow V4",
+    "category": "Accessories",
+    "price": 169.99,
+    "oldPrice": 189.99,
+    "description": "The Razer BlackWidow V4 mechanical keyboard is built for competitive gamers, featuring customizable RGB lighting, tactile key switches, and advanced macro support. Its sturdy frame ensures reliable long-term performance.",
+    "imageName": "5bb8f297c5218-removebg-preview",
+    "model": "BlackWidowV4"
+  },
+  {
+    "title": "Logitech MX Master 3S",
+    "category": "Accessories",
+    "price": 99.99,
+    "oldPrice": 119.99,
+    "description": "The MX Master 3S is Logitech’s flagship productivity mouse, offering precision tracking, customizable buttons, and ergonomic comfort. Its MagSpeed scroll wheel lets you fly through documents and timelines with ease.",
+    "imageName": "378-3780134_mac-logitech-mx-master-3-hd-png-download-removebg-preview",
+    "model": "MXMaster3S"
+  },
+  {
+    "title": "Anker PowerCore 20000",
+    "category": "Accessories",
+    "price": 59.99,
+    "oldPrice": 79.99,
+    "description": "Keep your devices charged anywhere with the Anker PowerCore 20000. With high-speed PowerIQ charging and dual USB ports, it provides enough power to charge a smartphone multiple times on a single charge.",
+    "imageName": "G03-removebg-preview",
+    "model": "PowerCore20000"
+  },
+  {
+    "title": "Apple Magic Keyboard",
+    "category": "Accessories",
+    "price": 99.99,
+    "oldPrice": 119.99,
+    "description": "The Apple Magic Keyboard combines sleek design with a comfortable scissor mechanism for precise typing. Lightweight and rechargeable, it connects seamlessly to Macs and iPads for productivity on the go.",
+    "imageName": "computer-keyboard-magic-keyboard-magic-mouse-2-apple-keyboard-apple-wireless-keyboard-removebg-preview",
+    "model": "MagicKeyboard"
+  },
+  {
+    "title": "Logitech Brio 4K Webcam",
+    "category": "Accessories",
+    "price": 179.99,
+    "oldPrice": 199.99,
+    "description": "Elevate video calls with the Logitech Brio 4K webcam, offering ultra-sharp video, HDR, and facial recognition support. Perfect for professionals, it adapts to any lighting condition and ensures crystal-clear communication.",
+    "imageName": "logitech-4k-pro-webcam-4k-resolution-logitech-brio-webcam-ultra-high-definition-television-webcam",
+    "model": "Brio4K"
+  },
+  {
+    "title": "Microsoft Surface Laptop 5",
+    "category": "Laptops",
+    "price": 1299.99,
+    "oldPrice": 1399.99,
+    "description": "The Surface Laptop 5 delivers premium style and performance with its PixelSense touchscreen and slim aluminum chassis. Powered by the latest Intel processors, it balances productivity, entertainment, and portability.",
+    "imageName": "210-2108145_microsoft-surface-laptop-surface-laptop-hd-png-download__1_-removebg-preview",
+    "model": "SurfaceLaptop5"
+  },
+  {
+    "title": "Acer Swift 5",
+    "category": "Laptops",
+    "price": 999.99,
+    "oldPrice": 1099.99,
+    "description": "Lightweight yet powerful, the Acer Swift 5 is designed for productivity on the move. It features Intel’s latest chips, fast SSD storage, and long battery life, all in a sleek magnesium alloy body.",
+    "imageName": "",
+    "model": "Swift5"
+  },
+  {
+    "title": "Realme GT Neo 5",
+    "category": "Smartphones",
+    "price": 649.99,
+    "oldPrice": 699.99,
+    "description": "The Realme GT Neo 5 packs flagship specs with an affordable price tag. Featuring up to 240W fast charging, a 144Hz AMOLED display, and powerful Snapdragon performance, it’s a true disruptor in its class.",
+    "imageName": "",
+    "model": "GTNeo5"
+  },
+  {
+    "title": "Motorola Edge 40 Pro",
+    "category": "Smartphones",
+    "price": 799.99,
+    "oldPrice": 849.99,
+    "description": "Motorola’s Edge 40 Pro combines sleek design with serious horsepower. Boasting a 165Hz pOLED display, Snapdragon 8 Gen 2 chip, and ultra-fast charging, it brings flagship features at a competitive price.",
+    "imageName": "",
+    "model": "Edge40Pro"
+  },
+  {
+    "title": "Oppo Find X5 Pro",
+    "category": "Smartphones",
+    "price": 1099.99,
+    "oldPrice": 1199.99,
+    "description": "The Oppo Find X5 Pro delivers premium craftsmanship with its ceramic back and Hasselblad-tuned cameras. It excels in low-light photography, vivid display performance, and offers blazing-fast wired and wireless charging.",
+    "imageName": "",
+    "model": "FindX5Pro"
+  }
+]
